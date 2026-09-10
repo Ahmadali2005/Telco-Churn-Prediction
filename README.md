@@ -72,8 +72,8 @@ The project includes an interactive web application built with **Streamlit** tha
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Ahmadali2005/telco-churn-prediction.git]
-   cd telco-churn-prediction
+   git clone [https://github.com/Ahmadali2005/telco churn prediction.git]
+   cd telco churn prediction
 
 
 ## Install dependencies:
